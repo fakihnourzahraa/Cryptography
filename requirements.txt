@@ -1,0 +1,8 @@
+pyserial>=3.5
+numpy>=1.24
+matplotlib>=3.7
+pycryptodome>=3.19
+kyber-py>=1.2
+dilithium-py>=1.5
+# benchmarks only (builds the liboqs C library on first import):
+# pip install git+https://github.com/open-quantum-safe/liboqs-python.git
